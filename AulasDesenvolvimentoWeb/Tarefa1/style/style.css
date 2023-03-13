@@ -1,0 +1,24 @@
+body{
+   background-color: honeydew;
+}
+
+h1{
+    text-align: center;
+    padding: 60px;
+    color: indigo;
+}
+
+h2{
+    text-align: justify;
+    padding: 5px;
+    color: indigo;
+}
+ul{
+    text-align: justify;
+}
+.list{
+padding: 5px;
+}
+.list:hover{
+    color: blueviolet;
+}
